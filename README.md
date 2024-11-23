@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **n.i.shimul48@gmail.com**
 
-- 📄 Know about my experiences [https://nazmul14486.github.io/Portfolio-New/](https://nazmul14486.github.io/Portfolio-New/)
+- 📄 Visit my Portfolio [https://nazmul14486.github.io/Portfolio-New/](https://nazmul14486.github.io/Portfolio-New/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
