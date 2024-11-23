@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazmul</h1>
 <h3 align="center">A passionate Web Developer and Content Writer from Bangladesh!</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
+<img align="right" alt="Coding" width="400" margin-left="10" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 - 🌱 I’m currently learning **ReactJS | MongoDB**
 
